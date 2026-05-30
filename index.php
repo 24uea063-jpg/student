@@ -1,4 +1,5 @@
 <?php
+// test update
 include("db.php");
 
 if(isset($_POST['submit']))
